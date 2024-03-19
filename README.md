@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jess</h1>
+<h1 align="center">Hi there, I'm Jess</h1>
 <h3 align="center">Pivoting into software development from finance and art, looking for entry-level opportunities.</h3>
 
 
