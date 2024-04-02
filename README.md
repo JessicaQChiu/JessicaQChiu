@@ -23,6 +23,7 @@
 
 <h3 align="left">Main Projects:</h3>
 <p align="left">
+  
 - <a href="https://jessicaqchiu.vercel.app/">Jessica Q Chiu Portfolio Website (In Progress)</a>
 - <a href="https://jessicaqchiu.github.io/ladybug-jumper-game/">Ladybug Jumper (2D Platformer Game)</a>
 - <a href="https://podcast-website-virid.vercel.app/">Blue Days Podcast Webpage</a>
