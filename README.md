@@ -24,9 +24,9 @@
 <h3 align="left">Main Projects:</h3>
 <p align="left">
   
-- <a href="https://jessicaqchiu.vercel.app/">Jessica Q Chiu Portfolio Website (In Progress)</a>
-- <a href="https://jessicaqchiu.github.io/ladybug-jumper-game/">Ladybug Jumper (2D Platformer Game)</a>
-- <a href="https://podcast-website-virid.vercel.app/">Blue Days Podcast Webpage</a>
+- <a href="https://jessicaqchiu.vercel.app/"><strong>Jessica Q Chiu Portfolio Website </strong>(In Progress)</a>
+- <a href="https://jessicaqchiu.github.io/ladybug-jumper-game/"><strong>Ladybug Jumper </strong>(2D Platformer Game)</a>
+- <a href="https://podcast-website-virid.vercel.app/"><strong>Blue Days Podcast Webpage</strong></a>
  </p>
  
 <h3 align="left">Languages and Tools:</h3>
