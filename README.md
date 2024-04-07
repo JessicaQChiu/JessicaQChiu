@@ -17,7 +17,7 @@
   - 💡 Currently working on building my portfolio website using Next.js, React, Tailwind, and TypeScript. 
   - 🌱 Skills are focused on front-end development and design.
   - 💬 Looking for entry/junior level developer positions and to collaborate on projects.
-  - 🎨 All art used in my projects are my original illustrations, including the pixel icons used in my portfolio website. I am a freelance artist on the side as I upskill in software development. If you're looking for a creative problem solver, then let's work together!
+  - 🎨 All artworks used in my projects are my original illustrations, including the pixel icons used in my portfolio website. I am a freelance artist on the side as I upskill in software development. If you're looking for a creative problem solver, then let's work together!
  </p>
 
 <h3 align="left">Main Projects:</h3>
