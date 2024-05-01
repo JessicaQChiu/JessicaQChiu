@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
+- LinkedIn: <a href="https://www.linkedin.com/in/jessicaqchiu/">JessicaQChiu</a>
 - Twitter / X: <a href="https://twitter.com/jessicaqchiu">JessicaQChiu</a>
 - Github profile: <a href="https://github.com/JessicaQChiu">JessicaQChiu</a>
 - Email: <a href="mailto:jessica.q.chiu@gmail.com">Jessica.Q.Chiu@gmail.com</a>
