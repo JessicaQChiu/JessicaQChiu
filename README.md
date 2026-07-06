@@ -7,8 +7,7 @@
 - LinkedIn: <a href="https://www.linkedin.com/in/jessicaqchiu/">JessicaQChiu</a>
 - Twitter / X: <a href="https://twitter.com/jessicaqchiu">JessicaQChiu</a>
 - Github profile: <a href="https://github.com/JessicaQChiu">JessicaQChiu</a>
-<br>
-- My website: <a href="https://jessicaqchiu.vercel.app/"><strong>Jessica Q Chiu Portfolio </strong>(In Progress)</a>
+- My website: <a href="https://jessicaqchiu.vercel.app/">Jessica Q Chiu Portfolio (In Progress)</a>
 - Email: <a href="mailto:jessica.q.chiu@gmail.com">Jessica.Q.Chiu@gmail.com</a>
 </p>
 
