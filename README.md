@@ -15,10 +15,10 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-  - 💡 Currently working on building my portfolio website using Next.js, React, Tailwind, and TypeScript. 
-  - 🌱 Skills are focused on front-end development and design.
-  - 💬 Looking for entry/junior level developer positions and to collaborate on projects.
-  - 🎨 All artworks used in my projects are my original illustrations, including the pixel icons used in my portfolio website. I am a freelance artist on the side as I upskill in software development. If you're looking for a creative problem solver, then let's work together!
+  - 💡 Creative problem solver. Skills are focused on business development, managing operations, project management, and design.
+  - 🌱 Currently researching SEO/GEO/AEO. 
+  - 💬 Looking for opportunities and to collaborate on projects. Happy to pick up projects for non-profits, and to volunteer for the right causes.
+  - 🎨 All project art are original illustrations, commissions open.
  </p>
 
 <h3 align="left">Main Projects:</h3>
