@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Jess</h1>
 <h3 align="center">This is a little outdated now. I'm a jack of all trades so get in touch if you need an extra hand, I'm always open to new opportunities. Tech, finance, marketing, design, I've done it all.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
   
 - LinkedIn: <a href="https://www.linkedin.com/in/jessicaqchiu/">JessicaQChiu</a>
 - Twitter / X: <a href="https://twitter.com/jessicaqchiu">JessicaQChiu</a>
 - Github profile: <a href="https://github.com/JessicaQChiu">JessicaQChiu</a>
-
+<br>
 - My website: <a href="https://jessicaqchiu.vercel.app/"><strong>Jessica Q Chiu Portfolio </strong>(In Progress)</a>
 - Email: <a href="mailto:jessica.q.chiu@gmail.com">Jessica.Q.Chiu@gmail.com</a>
 </p>
