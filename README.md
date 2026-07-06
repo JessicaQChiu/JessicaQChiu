@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jess</h1>
-<h3 align="center">This is a little outdated now. I'm a jack of all trades so get in touch if you need an extra hand, I'm always open to new opportunities. Tech, finance, marketing, design, I've done it all.</h3>
-
-
+<h3 align="center">This is a little outdated now. I'm a jack of all trades so get in touch if you need an extra hand, I'm always open to new opportunities. 
+  <br>
+  Tech, finance, marketing, design, I've done it all.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +9,8 @@
 - LinkedIn: <a href="https://www.linkedin.com/in/jessicaqchiu/">JessicaQChiu</a>
 - Twitter / X: <a href="https://twitter.com/jessicaqchiu">JessicaQChiu</a>
 - Github profile: <a href="https://github.com/JessicaQChiu">JessicaQChiu</a>
+
+- My website: <a href="https://jessicaqchiu.vercel.app/"><strong>Jessica Q Chiu Portfolio </strong>(In Progress)</a>
 - Email: <a href="mailto:jessica.q.chiu@gmail.com">Jessica.Q.Chiu@gmail.com</a>
 </p>
 
@@ -19,14 +21,6 @@
   - 🌱 Currently researching SEO/GEO/AEO. 
   - 💬 Looking for opportunities and to collaborate on projects. Happy to pick up projects for non-profits, and to volunteer for the right causes.
   - 🎨 All project art are original illustrations, commissions open.
- </p>
-
-<h3 align="left">Main Projects:</h3>
-<p align="left">
-  
-- <a href="https://jessicaqchiu.vercel.app/"><strong>Jessica Q Chiu Portfolio Website </strong>(In Progress)</a>
-- <a href="https://jessicaqchiu.github.io/ladybug-jumper-game/"><strong>Ladybug Jumper </strong>(2D Platformer Game)</a>
-- <a href="https://blue-days.vercel.app/"><strong>Blue Days Podcast Webpage</strong></a>
  </p>
  
 <h3 align="left">Languages and Tools:</h3>
