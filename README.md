@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Jess</h1>
-<h3 align="center">This is a little outdated now. I'm a jack of all trades so get in touch if you need an extra hand, I'm always open to new opportunities. 
-  <br>
-  Tech, finance, marketing, design, I've done it all.</h3>
+<h3 align="center">This is a little outdated now. I'm a jack of all trades so get in touch if you need an extra hand, I'm always open to new opportunities. Tech, finance, marketing, design, I've done it all.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
